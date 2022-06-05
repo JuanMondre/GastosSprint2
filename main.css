@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+#total{
+    color: rgb(0, 0, 0);
+}
+#monto{
+    color: rgb(0, 0, 0);
+}
+
+.titulo{
+
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.items{
+    list-style: decimal;
+}
+
